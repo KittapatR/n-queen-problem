@@ -10,7 +10,7 @@ Kittapat Ratanaphupha
 ### Features
 1. You can find a number of solution in n x n board
 2. You can find the example solution of n-queen problem
-3. \[Insight\] You can investigate a time-complexity in solution by using dynamic programming and recursive programming
+3. \[Insight\] You can investigate a time-complexity in solution by using iterative programming and recursive programming
 
 ## Briefly algorithm in this program
 ![algorithm](https://github.com/KittapatR/n-queen-problem/blob/main/Flowchart.jpg)
